@@ -49,3 +49,8 @@ import the model class as follows in the component `import { ModelName } from '.
 Storing reference to prop-name to be our new ModelName class as follows `prop-name: ModelName`
 
 ---
+
+# Deployment
+
+## Building Our App for Production
+`ng build --prod` tells the ng tool to build our application for a production environment.
